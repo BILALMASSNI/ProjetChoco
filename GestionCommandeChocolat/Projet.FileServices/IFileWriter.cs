@@ -1,0 +1,14 @@
+﻿using Projet.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Projet.FileServices
+{
+    public interface IFileWriter<T>
+    {
+        Task WriteDataToFileAsync(string filePath, List<T> data);
+    }
+}

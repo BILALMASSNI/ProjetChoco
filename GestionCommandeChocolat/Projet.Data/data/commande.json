@@ -1,0 +1,19 @@
+[
+  {
+    "IdAcheteur": "a8e00267-d25a-4c2b-bc2c-25e18dbb1337",
+    "IdArticle": "0b503276-78ea-40c1-a14b-78729f994140",
+    "Quantite": 3,
+    "Date": "2023-11-01"
+  },
+  {
+    "IdAcheteur": "3d8b55c8-2de5-46ef-aa27-882d8f4ec52c",
+    "IdArticle": "a6a7e52c-f91a-4f2d-8cc4-6b2b5ea5c7ec",
+    "Quantite": 2,
+    "Date": "2023-11-01"
+  }
+
+]
+
+
+
+
